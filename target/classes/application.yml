@@ -1,0 +1,4 @@
+spring:
+  messages:
+    #配置资源文件
+    basename: i18n/login/login
